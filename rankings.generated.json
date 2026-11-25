@@ -1,0 +1,33 @@
+{
+  "poll": "Playoff Committee Rankings",
+  "season": 2026,
+  "week": 13,
+  "updatedAt": "2026-11-25T12:37:59.327Z",
+  "rankings": {
+    "georgia": 1,
+    "utah": 2,
+    "texas": 3,
+    "notre-dame": 4,
+    "tennessee": 5,
+    "alabama": 6,
+    "miami-fl": 7,
+    "wake-forest": 8,
+    "ucla": 9,
+    "byu": 10,
+    "texas-tech": 11,
+    "oregon": 12,
+    "iowa": 13,
+    "indiana": 14,
+    "usc": 15,
+    "arizona": 16,
+    "oklahoma": 17,
+    "houston": 18,
+    "louisville": 19,
+    "florida": 20,
+    "ohio-state": 21,
+    "ole-miss": 22,
+    "missouri": 23,
+    "washington": 24,
+    "nebraska": 25
+  }
+}
