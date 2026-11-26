@@ -3,7 +3,7 @@
     "teamId": "alabama",
     "displayName": "Alabama",
     "abbreviation": "ALA",
-    "scrapedAt": "2026-11-25T12:37:36.111Z",
+    "scrapedAt": "2026-11-26T11:11:00.032Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -460,7 +460,7 @@
     "teamId": "arizona",
     "displayName": "Arizona",
     "abbreviation": "ARIZ",
-    "scrapedAt": "2026-11-25T12:37:23.073Z",
+    "scrapedAt": "2026-11-26T11:10:47.490Z",
     "quarterback": {
       "yearsWithProgram": 4,
       "experience": 4,
@@ -917,7 +917,7 @@
     "teamId": "arizona-state",
     "displayName": "Arizona State",
     "abbreviation": "ASU",
-    "scrapedAt": "2026-11-25T12:37:23.794Z",
+    "scrapedAt": "2026-11-26T11:10:48.298Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -1374,7 +1374,7 @@
     "teamId": "arkansas",
     "displayName": "Arkansas",
     "abbreviation": "ARK",
-    "scrapedAt": "2026-11-25T12:37:37.139Z",
+    "scrapedAt": "2026-11-26T11:11:00.830Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -1831,7 +1831,7 @@
     "teamId": "auburn",
     "displayName": "Auburn",
     "abbreviation": "AUB",
-    "scrapedAt": "2026-11-25T12:37:38.010Z",
+    "scrapedAt": "2026-11-26T11:11:01.656Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -2288,7 +2288,7 @@
     "teamId": "baylor",
     "displayName": "Baylor",
     "abbreviation": "BAY",
-    "scrapedAt": "2026-11-25T12:37:24.617Z",
+    "scrapedAt": "2026-11-26T11:10:49.133Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -2745,7 +2745,7 @@
     "teamId": "boston-college",
     "displayName": "Boston College",
     "abbreviation": "BC",
-    "scrapedAt": "2026-11-25T12:36:53.989Z",
+    "scrapedAt": "2026-11-26T11:10:19.453Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -3202,7 +3202,7 @@
     "teamId": "byu",
     "displayName": "BYU",
     "abbreviation": "BYU",
-    "scrapedAt": "2026-11-25T12:37:25.400Z",
+    "scrapedAt": "2026-11-26T11:10:49.967Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -3659,7 +3659,7 @@
     "teamId": "california",
     "displayName": "California",
     "abbreviation": "CAL",
-    "scrapedAt": "2026-11-25T12:36:55.578Z",
+    "scrapedAt": "2026-11-26T11:10:20.266Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -4116,7 +4116,7 @@
     "teamId": "cincinnati",
     "displayName": "Cincinnati",
     "abbreviation": "CIN",
-    "scrapedAt": "2026-11-25T12:37:26.273Z",
+    "scrapedAt": "2026-11-26T11:10:50.726Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -4573,7 +4573,7 @@
     "teamId": "clemson",
     "displayName": "Clemson",
     "abbreviation": "CLEM",
-    "scrapedAt": "2026-11-25T12:36:56.310Z",
+    "scrapedAt": "2026-11-26T11:10:21.056Z",
     "quarterback": {
       "yearsWithProgram": 4,
       "experience": 4,
@@ -5030,7 +5030,7 @@
     "teamId": "colorado",
     "displayName": "Colorado",
     "abbreviation": "COLO",
-    "scrapedAt": "2026-11-25T12:37:27.015Z",
+    "scrapedAt": "2026-11-26T11:10:51.379Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -5487,7 +5487,7 @@
     "teamId": "duke",
     "displayName": "Duke",
     "abbreviation": "DUKE",
-    "scrapedAt": "2026-11-25T12:36:57.118Z",
+    "scrapedAt": "2026-11-26T11:10:21.828Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -5944,7 +5944,7 @@
     "teamId": "florida",
     "displayName": "Florida",
     "abbreviation": "FLA",
-    "scrapedAt": "2026-11-25T12:37:38.761Z",
+    "scrapedAt": "2026-11-26T11:11:02.435Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -6401,7 +6401,7 @@
     "teamId": "florida-state",
     "displayName": "Florida State",
     "abbreviation": "FSU",
-    "scrapedAt": "2026-11-25T12:36:58.016Z",
+    "scrapedAt": "2026-11-26T11:10:22.636Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -6858,7 +6858,7 @@
     "teamId": "georgia",
     "displayName": "Georgia",
     "abbreviation": "UGA",
-    "scrapedAt": "2026-11-25T12:37:39.519Z",
+    "scrapedAt": "2026-11-26T11:11:03.127Z",
     "quarterback": {
       "yearsWithProgram": 4,
       "experience": 4,
@@ -7315,7 +7315,7 @@
     "teamId": "georgia-tech",
     "displayName": "Georgia Tech",
     "abbreviation": "GT",
-    "scrapedAt": "2026-11-25T12:36:58.783Z",
+    "scrapedAt": "2026-11-26T11:10:23.479Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -7772,7 +7772,7 @@
     "teamId": "houston",
     "displayName": "Houston",
     "abbreviation": "HOU",
-    "scrapedAt": "2026-11-25T12:37:27.768Z",
+    "scrapedAt": "2026-11-26T11:10:52.122Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -8229,7 +8229,7 @@
     "teamId": "illinois",
     "displayName": "Illinois",
     "abbreviation": "ILL",
-    "scrapedAt": "2026-11-25T12:37:12.863Z",
+    "scrapedAt": "2026-11-26T11:10:37.352Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -8686,7 +8686,7 @@
     "teamId": "indiana",
     "displayName": "Indiana",
     "abbreviation": "IU",
-    "scrapedAt": "2026-11-25T12:37:13.619Z",
+    "scrapedAt": "2026-11-26T11:10:38.157Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -9143,7 +9143,7 @@
     "teamId": "iowa",
     "displayName": "Iowa",
     "abbreviation": "IOWA",
-    "scrapedAt": "2026-11-25T12:37:11.864Z",
+    "scrapedAt": "2026-11-26T11:10:36.558Z",
     "quarterback": {
       "yearsWithProgram": 1.5,
       "experience": 3,
@@ -9600,7 +9600,7 @@
     "teamId": "iowa-state",
     "displayName": "Iowa State",
     "abbreviation": "ISU",
-    "scrapedAt": "2026-11-25T12:37:28.881Z",
+    "scrapedAt": "2026-11-26T11:10:52.891Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -10057,7 +10057,7 @@
     "teamId": "kansas",
     "displayName": "Kansas",
     "abbreviation": "KU",
-    "scrapedAt": "2026-11-25T12:37:29.732Z",
+    "scrapedAt": "2026-11-26T11:10:53.674Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -10514,7 +10514,7 @@
     "teamId": "kansas-state",
     "displayName": "Kansas State",
     "abbreviation": "KSU",
-    "scrapedAt": "2026-11-25T12:37:30.526Z",
+    "scrapedAt": "2026-11-26T11:10:54.471Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -10971,7 +10971,7 @@
     "teamId": "kentucky",
     "displayName": "Kentucky",
     "abbreviation": "UK",
-    "scrapedAt": "2026-11-25T12:37:40.272Z",
+    "scrapedAt": "2026-11-26T11:11:03.880Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -11428,7 +11428,7 @@
     "teamId": "louisville",
     "displayName": "Louisville",
     "abbreviation": "LOU",
-    "scrapedAt": "2026-11-25T12:36:59.550Z",
+    "scrapedAt": "2026-11-26T11:10:24.266Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -11885,7 +11885,7 @@
     "teamId": "lsu",
     "displayName": "LSU",
     "abbreviation": "LSU",
-    "scrapedAt": "2026-11-25T12:37:41.030Z",
+    "scrapedAt": "2026-11-26T11:11:04.647Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -12342,7 +12342,7 @@
     "teamId": "maryland",
     "displayName": "Maryland",
     "abbreviation": "MD",
-    "scrapedAt": "2026-11-25T12:37:17.771Z",
+    "scrapedAt": "2026-11-26T11:10:42.019Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -12799,7 +12799,7 @@
     "teamId": "miami-fl",
     "displayName": "Miami (FL)",
     "abbreviation": "MIA",
-    "scrapedAt": "2026-11-25T12:37:00.296Z",
+    "scrapedAt": "2026-11-26T11:10:25.052Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -13256,7 +13256,7 @@
     "teamId": "michigan",
     "displayName": "Michigan",
     "abbreviation": "MICH",
-    "scrapedAt": "2026-11-25T12:37:10.186Z",
+    "scrapedAt": "2026-11-26T11:10:35.004Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -13713,7 +13713,7 @@
     "teamId": "michigan-state",
     "displayName": "Michigan State",
     "abbreviation": "MSU",
-    "scrapedAt": "2026-11-25T12:37:14.364Z",
+    "scrapedAt": "2026-11-26T11:10:38.942Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -14170,7 +14170,7 @@
     "teamId": "minnesota",
     "displayName": "Minnesota",
     "abbreviation": "MINN",
-    "scrapedAt": "2026-11-25T12:37:15.158Z",
+    "scrapedAt": "2026-11-26T11:10:39.688Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -14627,7 +14627,7 @@
     "teamId": "mississippi-state",
     "displayName": "Mississippi State",
     "abbreviation": "MSST",
-    "scrapedAt": "2026-11-25T12:37:41.826Z",
+    "scrapedAt": "2026-11-26T11:11:05.414Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -15084,7 +15084,7 @@
     "teamId": "missouri",
     "displayName": "Missouri",
     "abbreviation": "MIZ",
-    "scrapedAt": "2026-11-25T12:37:42.572Z",
+    "scrapedAt": "2026-11-26T11:11:06.172Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -15541,7 +15541,7 @@
     "teamId": "nc-state",
     "displayName": "NC State",
     "abbreviation": "NCSU",
-    "scrapedAt": "2026-11-25T12:37:01.179Z",
+    "scrapedAt": "2026-11-26T11:10:25.819Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -15998,7 +15998,7 @@
     "teamId": "nebraska",
     "displayName": "Nebraska",
     "abbreviation": "NEB",
-    "scrapedAt": "2026-11-25T12:37:19.325Z",
+    "scrapedAt": "2026-11-26T11:10:43.621Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -16455,7 +16455,7 @@
     "teamId": "north-carolina",
     "displayName": "North Carolina",
     "abbreviation": "UNC",
-    "scrapedAt": "2026-11-25T12:37:02.002Z",
+    "scrapedAt": "2026-11-26T11:10:26.631Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -16912,7 +16912,7 @@
     "teamId": "northwestern",
     "displayName": "Northwestern",
     "abbreviation": "NU",
-    "scrapedAt": "2026-11-25T12:37:16.067Z",
+    "scrapedAt": "2026-11-26T11:10:40.429Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -17369,7 +17369,7 @@
     "teamId": "notre-dame",
     "displayName": "Notre Dame",
     "abbreviation": "ND",
-    "scrapedAt": "2026-11-25T12:37:48.866Z",
+    "scrapedAt": "2026-11-26T11:11:12.125Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -17826,7 +17826,7 @@
     "teamId": "ohio-state",
     "displayName": "Ohio State",
     "abbreviation": "OSU",
-    "scrapedAt": "2026-11-25T12:37:09.348Z",
+    "scrapedAt": "2026-11-26T11:10:34.212Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -18283,7 +18283,7 @@
     "teamId": "oklahoma",
     "displayName": "Oklahoma",
     "abbreviation": "OU",
-    "scrapedAt": "2026-11-25T12:37:43.317Z",
+    "scrapedAt": "2026-11-26T11:11:06.805Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 4,
@@ -18740,7 +18740,7 @@
     "teamId": "oklahoma-state",
     "displayName": "Oklahoma State",
     "abbreviation": "OKST",
-    "scrapedAt": "2026-11-25T12:37:31.325Z",
+    "scrapedAt": "2026-11-26T11:10:55.234Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -19197,7 +19197,7 @@
     "teamId": "ole-miss",
     "displayName": "Ole Miss",
     "abbreviation": "MISS",
-    "scrapedAt": "2026-11-25T12:37:44.102Z",
+    "scrapedAt": "2026-11-26T11:11:07.591Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 4,
@@ -19654,7 +19654,7 @@
     "teamId": "oregon",
     "displayName": "Oregon",
     "abbreviation": "ORE",
-    "scrapedAt": "2026-11-25T12:37:20.101Z",
+    "scrapedAt": "2026-11-26T11:10:44.413Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -20111,7 +20111,7 @@
     "teamId": "penn-state",
     "displayName": "Penn State",
     "abbreviation": "PSU",
-    "scrapedAt": "2026-11-25T12:37:08.553Z",
+    "scrapedAt": "2026-11-26T11:10:33.467Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -20568,7 +20568,7 @@
     "teamId": "pittsburgh",
     "displayName": "Pittsburgh",
     "abbreviation": "PITT",
-    "scrapedAt": "2026-11-25T12:37:02.836Z",
+    "scrapedAt": "2026-11-26T11:10:27.445Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -21025,7 +21025,7 @@
     "teamId": "purdue",
     "displayName": "Purdue",
     "abbreviation": "PUR",
-    "scrapedAt": "2026-11-25T12:37:16.837Z",
+    "scrapedAt": "2026-11-26T11:10:41.228Z",
     "quarterback": {
       "yearsWithProgram": 3,
       "experience": 3,
@@ -21482,7 +21482,7 @@
     "teamId": "rutgers",
     "displayName": "Rutgers",
     "abbreviation": "RUTG",
-    "scrapedAt": "2026-11-25T12:37:18.587Z",
+    "scrapedAt": "2026-11-26T11:10:42.842Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -21939,7 +21939,7 @@
     "teamId": "smu",
     "displayName": "SMU",
     "abbreviation": "SMU",
-    "scrapedAt": "2026-11-25T12:37:03.633Z",
+    "scrapedAt": "2026-11-26T11:10:28.373Z",
     "quarterback": {
       "yearsWithProgram": 4,
       "experience": 4,
@@ -22396,7 +22396,7 @@
     "teamId": "south-carolina",
     "displayName": "South Carolina",
     "abbreviation": "SC",
-    "scrapedAt": "2026-11-25T12:37:44.917Z",
+    "scrapedAt": "2026-11-26T11:11:08.362Z",
     "quarterback": {
       "yearsWithProgram": 3,
       "experience": 3,
@@ -22853,7 +22853,7 @@
     "teamId": "stanford",
     "displayName": "Stanford",
     "abbreviation": "STAN",
-    "scrapedAt": "2026-11-25T12:37:04.410Z",
+    "scrapedAt": "2026-11-26T11:10:29.221Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -23310,7 +23310,7 @@
     "teamId": "syracuse",
     "displayName": "Syracuse",
     "abbreviation": "SYR",
-    "scrapedAt": "2026-11-25T12:37:05.177Z",
+    "scrapedAt": "2026-11-26T11:10:30.017Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 4,
@@ -23767,7 +23767,7 @@
     "teamId": "tcu",
     "displayName": "TCU",
     "abbreviation": "TCU",
-    "scrapedAt": "2026-11-25T12:37:32.110Z",
+    "scrapedAt": "2026-11-26T11:10:55.989Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -24224,7 +24224,7 @@
     "teamId": "tennessee",
     "displayName": "Tennessee",
     "abbreviation": "TENN",
-    "scrapedAt": "2026-11-25T12:37:45.702Z",
+    "scrapedAt": "2026-11-26T11:11:09.148Z",
     "quarterback": {
       "yearsWithProgram": 1,
       "experience": 1,
@@ -24681,7 +24681,7 @@
     "teamId": "texas",
     "displayName": "Texas",
     "abbreviation": "TEX",
-    "scrapedAt": "2026-11-25T12:37:46.499Z",
+    "scrapedAt": "2026-11-26T11:11:09.803Z",
     "quarterback": {
       "yearsWithProgram": 3,
       "experience": 3,
@@ -25138,7 +25138,7 @@
     "teamId": "texas-am",
     "displayName": "Texas A&M",
     "abbreviation": "TA&M",
-    "scrapedAt": "2026-11-25T12:37:47.289Z",
+    "scrapedAt": "2026-11-26T11:11:10.586Z",
     "quarterback": {
       "yearsWithProgram": 3,
       "experience": 3,
@@ -25595,7 +25595,7 @@
     "teamId": "texas-tech",
     "displayName": "Texas Tech",
     "abbreviation": "TTU",
-    "scrapedAt": "2026-11-25T12:37:32.911Z",
+    "scrapedAt": "2026-11-26T11:10:56.804Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -25669,10 +25669,10 @@
       ]
     },
     "wideReceiver": {
-      "yearsWithProgram": 0.7,
-      "experience": 1.7,
-      "starRating": 4,
-      "starRatingHS": 4,
+      "yearsWithProgram": 2,
+      "experience": 3,
+      "starRating": 3.7,
+      "starRatingHS": 3.7,
       "playersUsed": [
         {
           "name": "KENNY JOHNSON",
@@ -25707,20 +25707,20 @@
           "jersey": 1
         },
         {
-          "name": "CHASE CAMPBELL",
-          "yearsWithProgram": 0,
-          "experience": 0,
-          "classText": "FR",
+          "name": "COY EAKIN",
+          "yearsWithProgram": 4,
+          "experience": 4,
+          "classText": "RS SR",
           "currentYearTransfer": false,
           "olderTransfer": false,
           "position": "WR-SL",
-          "stars": 4,
+          "stars": 3,
           "transferStars": null,
-          "effectiveStars": 4,
+          "effectiveStars": 3,
           "starsImputed": null,
           "starsImputedHS": null,
-          "headshotUrl": null,
-          "jersey": 13
+          "headshotUrl": "https://a.espncdn.com/i/headshots/college-football/players/full/4916941.png",
+          "jersey": 3
         }
       ]
     },
@@ -25941,27 +25941,11 @@
       ]
     },
     "secondary": {
-      "yearsWithProgram": 1.6,
-      "experience": 2.8,
-      "starRating": 4,
-      "starRatingHS": 3.8,
+      "yearsWithProgram": 2.1,
+      "experience": 3,
+      "starRating": 3.5,
+      "starRatingHS": 3.5,
       "playersUsed": [
-        {
-          "name": "PEYTON MORGAN",
-          "yearsWithProgram": 2,
-          "experience": 2,
-          "classText": "RS SO",
-          "currentYearTransfer": false,
-          "olderTransfer": false,
-          "position": "SS",
-          "stars": 4,
-          "transferStars": null,
-          "effectiveStars": 4,
-          "starsImputed": null,
-          "starsImputedHS": null,
-          "headshotUrl": "https://a.espncdn.com/i/headshots/college-football/players/full/5110451.png",
-          "jersey": 3
-        },
         {
           "name": "BRENDEN JORDAN",
           "yearsWithProgram": 3,
@@ -25969,7 +25953,7 @@
           "classText": "SR",
           "currentYearTransfer": false,
           "olderTransfer": false,
-          "position": "FS",
+          "position": "SS",
           "stars": 4,
           "transferStars": null,
           "effectiveStars": 4,
@@ -25979,20 +25963,36 @@
           "jersey": 7
         },
         {
-          "name": "DAVIN MARTIN",
-          "yearsWithProgram": 0,
-          "experience": 3,
-          "classText": "RS JR/TR",
-          "currentYearTransfer": true,
+          "name": "PEYTON MORGAN",
+          "yearsWithProgram": 2,
+          "experience": 2,
+          "classText": "RS SO",
+          "currentYearTransfer": false,
           "olderTransfer": false,
-          "position": "RCB",
-          "stars": 3,
-          "transferStars": 4,
+          "position": "FS",
+          "stars": 4,
+          "transferStars": null,
           "effectiveStars": 4,
           "starsImputed": null,
           "starsImputedHS": null,
-          "headshotUrl": "https://a.espncdn.com/i/headshots/college-football/players/full/5085390.png",
-          "jersey": 4
+          "headshotUrl": "https://a.espncdn.com/i/headshots/college-football/players/full/5110451.png",
+          "jersey": 3
+        },
+        {
+          "name": "AMIER BOYD",
+          "yearsWithProgram": 2,
+          "experience": 4,
+          "classText": "RS SR/TR",
+          "currentYearTransfer": false,
+          "olderTransfer": true,
+          "position": "RCB",
+          "stars": 2,
+          "transferStars": null,
+          "effectiveStars": 2,
+          "starsImputed": null,
+          "starsImputedHS": null,
+          "headshotUrl": "https://a.espncdn.com/i/headshots/college-football/players/full/5088887.png",
+          "jersey": 27
         },
         {
           "name": "BRICE POLLOCK",
@@ -26014,8 +26014,8 @@
     },
     "transferRate": {
       "overall": {
-        "pct": 41,
-        "count": 9,
+        "pct": 36,
+        "count": 8,
         "starters": 22
       },
       "offense": {
@@ -26024,19 +26024,19 @@
         "starters": 11
       },
       "defense": {
-        "pct": 55,
-        "count": 6,
+        "pct": 45,
+        "count": 5,
         "starters": 11
       }
     },
     "blueChip": {
-      "pct": 45,
-      "count": 10,
+      "pct": 36,
+      "count": 8,
       "starters": 22
     },
     "blueChipHS": {
-      "pct": 23,
-      "count": 5,
+      "pct": 18,
+      "count": 4,
       "starters": 22
     },
     "_source": {
@@ -26052,7 +26052,7 @@
     "teamId": "ucf",
     "displayName": "UCF",
     "abbreviation": "UCF",
-    "scrapedAt": "2026-11-25T12:37:33.813Z",
+    "scrapedAt": "2026-11-26T11:10:57.628Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 4,
@@ -26509,7 +26509,7 @@
     "teamId": "ucla",
     "displayName": "UCLA",
     "abbreviation": "UCLA",
-    "scrapedAt": "2026-11-25T12:37:20.835Z",
+    "scrapedAt": "2026-11-26T11:10:45.137Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -26966,7 +26966,7 @@
     "teamId": "usc",
     "displayName": "USC",
     "abbreviation": "USC",
-    "scrapedAt": "2026-11-25T12:37:21.566Z",
+    "scrapedAt": "2026-11-26T11:10:45.928Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 4,
@@ -27423,7 +27423,7 @@
     "teamId": "utah",
     "displayName": "Utah",
     "abbreviation": "UTAH",
-    "scrapedAt": "2026-11-25T12:37:34.558Z",
+    "scrapedAt": "2026-11-26T11:10:58.376Z",
     "quarterback": {
       "yearsWithProgram": 1.5,
       "experience": 3,
@@ -27880,7 +27880,7 @@
     "teamId": "vanderbilt",
     "displayName": "Vanderbilt",
     "abbreviation": "VAN",
-    "scrapedAt": "2026-11-25T12:37:48.076Z",
+    "scrapedAt": "2026-11-26T11:11:11.394Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,
@@ -28337,7 +28337,7 @@
     "teamId": "virginia",
     "displayName": "Virginia",
     "abbreviation": "UVA",
-    "scrapedAt": "2026-11-25T12:37:05.978Z",
+    "scrapedAt": "2026-11-26T11:10:30.828Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -28794,7 +28794,7 @@
     "teamId": "virginia-tech",
     "displayName": "Virginia Tech",
     "abbreviation": "VT",
-    "scrapedAt": "2026-11-25T12:37:06.740Z",
+    "scrapedAt": "2026-11-26T11:10:31.711Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -29251,7 +29251,7 @@
     "teamId": "wake-forest",
     "displayName": "Wake Forest",
     "abbreviation": "WAKE",
-    "scrapedAt": "2026-11-25T12:37:07.571Z",
+    "scrapedAt": "2026-11-26T11:10:32.626Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 3,
@@ -29708,7 +29708,7 @@
     "teamId": "washington",
     "displayName": "Washington",
     "abbreviation": "WASH",
-    "scrapedAt": "2026-11-25T12:37:22.329Z",
+    "scrapedAt": "2026-11-26T11:10:46.724Z",
     "quarterback": {
       "yearsWithProgram": 2,
       "experience": 2,
@@ -30165,7 +30165,7 @@
     "teamId": "west-virginia",
     "displayName": "West Virginia",
     "abbreviation": "WVU",
-    "scrapedAt": "2026-11-25T12:37:35.295Z",
+    "scrapedAt": "2026-11-26T11:10:59.195Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 2,
@@ -30622,7 +30622,7 @@
     "teamId": "wisconsin",
     "displayName": "Wisconsin",
     "abbreviation": "WIS",
-    "scrapedAt": "2026-11-25T12:37:10.996Z",
+    "scrapedAt": "2026-11-26T11:10:35.764Z",
     "quarterback": {
       "yearsWithProgram": 0,
       "experience": 0,

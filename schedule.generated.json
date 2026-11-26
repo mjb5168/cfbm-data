@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "scrapedAt": "2026-11-25T14:29:31.249Z",
-  "oddsUpdatedAt": "2026-11-25T14:29:31.249Z",
+  "oddsUpdatedAt": "2026-11-26T11:11:17.545Z",
   "weeks": [
     {
       "week": 1,
@@ -13462,16 +13462,16 @@
           "homeTeamId": "texas-tech",
           "odds": {
             "spread": {
-              "homeSpread": -14,
-              "awaySpread": 14
+              "homeSpread": -15.5,
+              "awaySpread": 15.5
             },
             "moneyline": {
-              "home": -650,
-              "away": 470
+              "home": -700,
+              "away": 500
             },
-            "overUnder": 47.5,
+            "overUnder": 46.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13488,12 +13488,12 @@
               "awaySpread": 4.5
             },
             "moneyline": {
-              "home": -200,
-              "away": 164
+              "home": -205,
+              "away": 168
             },
             "overUnder": 40.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13515,7 +13515,7 @@
             },
             "overUnder": 56.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13568,16 +13568,16 @@
           "homeTeamId": "florida-state",
           "odds": {
             "spread": {
-              "homeSpread": 6,
-              "awaySpread": -6
+              "homeSpread": 6.5,
+              "awaySpread": -6.5
             },
             "moneyline": {
-              "home": 190,
-              "away": -230
+              "home": 195,
+              "away": -238
             },
             "overUnder": 53.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13620,8 +13620,8 @@
           "homeTeamId": "texas-am",
           "odds": {
             "spread": {
-              "homeSpread": 11.5,
-              "awaySpread": -11.5
+              "homeSpread": 10.5,
+              "awaySpread": -10.5
             },
             "moneyline": {
               "home": 350,
@@ -13629,7 +13629,7 @@
             },
             "overUnder": 40.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13646,12 +13646,12 @@
               "awaySpread": 7.5
             },
             "moneyline": {
-              "home": -320,
-              "away": 255
+              "home": -335,
+              "away": 265
             },
             "overUnder": 37.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13671,9 +13671,9 @@
               "home": -3000,
               "away": 1280
             },
-            "overUnder": 67.5,
+            "overUnder": 66.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13695,7 +13695,7 @@
             },
             "overUnder": 52.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13717,7 +13717,7 @@
             },
             "overUnder": 53.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13734,12 +13734,12 @@
               "awaySpread": -2.5
             },
             "moneyline": {
-              "home": 116,
+              "home": 114,
               "away": -138
             },
             "overUnder": 54.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13756,12 +13756,12 @@
               "awaySpread": 10.5
             },
             "moneyline": {
-              "home": -410,
-              "away": 320
+              "home": -430,
+              "away": 330
             },
-            "overUnder": 38.5,
+            "overUnder": 37.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13774,16 +13774,16 @@
           "homeTeamId": "north-carolina",
           "odds": {
             "spread": {
-              "homeSpread": -5.5,
-              "awaySpread": 5.5
+              "homeSpread": -6,
+              "awaySpread": 6
             },
             "moneyline": {
-              "home": -218,
-              "away": 180
+              "home": -225,
+              "away": 185
             },
             "overUnder": 54.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13836,16 +13836,16 @@
           "homeTeamId": "northwestern",
           "odds": {
             "spread": {
-              "homeSpread": -3,
-              "awaySpread": 3
+              "homeSpread": -2.5,
+              "awaySpread": 2.5
             },
             "moneyline": {
-              "home": -148,
-              "away": 124
+              "home": -142,
+              "away": 120
             },
             "overUnder": 50.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13862,12 +13862,12 @@
               "awaySpread": -14.5
             },
             "moneyline": {
-              "home": 490,
+              "home": 480,
               "away": -670
             },
             "overUnder": 49.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13924,12 +13924,12 @@
               "awaySpread": 2.5
             },
             "moneyline": {
-              "home": -126,
-              "away": 104
+              "home": -132,
+              "away": 110
             },
             "overUnder": 50.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -13951,7 +13951,7 @@
             },
             "overUnder": 53.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14033,7 +14033,7 @@
             },
             "overUnder": 41.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14055,7 +14055,7 @@
             },
             "overUnder": 50.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14084,7 +14084,7 @@
             "moneyline": null,
             "overUnder": 55.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14106,7 +14106,7 @@
             },
             "overUnder": 55.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14119,16 +14119,16 @@
           "homeTeamId": "ucla",
           "odds": {
             "spread": {
-              "homeSpread": 7,
-              "awaySpread": -7
+              "homeSpread": 6.5,
+              "awaySpread": -6.5
             },
             "moneyline": {
-              "home": 215,
-              "away": -265
+              "home": 205,
+              "away": -250
             },
             "overUnder": 45.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14145,12 +14145,12 @@
               "awaySpread": 14.5
             },
             "moneyline": {
-              "home": -630,
-              "away": 460
+              "home": -670,
+              "away": 480
             },
             "overUnder": 55.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14167,12 +14167,12 @@
               "awaySpread": -7.5
             },
             "moneyline": {
-              "home": 240,
-              "away": -295
+              "home": 215,
+              "away": -265
             },
             "overUnder": 61.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14194,7 +14194,7 @@
             },
             "overUnder": 49.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14261,12 +14261,12 @@
               "awaySpread": 1.5
             },
             "moneyline": {
-              "home": -126,
-              "away": 106
+              "home": -122,
+              "away": 104
             },
             "overUnder": 41.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14283,12 +14283,12 @@
               "awaySpread": -3.5
             },
             "moneyline": {
-              "home": 136,
-              "away": -162
+              "home": 134,
+              "away": -160
             },
             "overUnder": 47.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14315,12 +14315,12 @@
               "awaySpread": 6.5
             },
             "moneyline": {
-              "home": -225,
-              "away": 188
+              "home": -220,
+              "away": 184
             },
             "overUnder": 64.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14343,8 +14343,8 @@
           "homeTeamId": "vanderbilt",
           "odds": {
             "spread": {
-              "homeSpread": 14,
-              "awaySpread": -14
+              "homeSpread": 13.5,
+              "awaySpread": -13.5
             },
             "moneyline": {
               "home": 410,
@@ -14352,7 +14352,7 @@
             },
             "overUnder": 42.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14369,12 +14369,12 @@
               "awaySpread": 23.5
             },
             "moneyline": {
-              "home": -2800,
-              "away": 1160
+              "home": -2500,
+              "away": 1100
             },
             "overUnder": 52.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14387,16 +14387,16 @@
           "homeTeamId": "alabama",
           "odds": {
             "spread": {
-              "homeSpread": -14.5,
-              "awaySpread": 14.5
+              "homeSpread": -15.5,
+              "awaySpread": 15.5
             },
             "moneyline": {
-              "home": -700,
-              "away": 500
+              "home": -750,
+              "away": 525
             },
             "overUnder": 49.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14413,12 +14413,12 @@
               "awaySpread": 14
             },
             "moneyline": {
-              "home": -600,
-              "away": 440
+              "home": -625,
+              "away": 455
             },
             "overUnder": 50.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14440,7 +14440,7 @@
             },
             "overUnder": 47.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14462,7 +14462,7 @@
             },
             "overUnder": 53.5,
             "source": "DraftKings",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14489,12 +14489,12 @@
               "awaySpread": 5.5
             },
             "moneyline": {
-              "home": -194,
-              "away": 162
+              "home": -192,
+              "away": 160
             },
             "overUnder": 55.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         },
         {
@@ -14571,7 +14571,7 @@
             },
             "overUnder": 57.5,
             "source": "FanDuel",
-            "fetchedAt": "2026-11-25T14:29:30.777Z"
+            "fetchedAt": "2026-11-26T11:11:17.207Z"
           }
         }
       ]
@@ -14838,16 +14838,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": 7,
-            "awaySpread": -7
+            "homeSpread": 6.5,
+            "awaySpread": -6.5
           },
           "moneyline": {
-            "home": 215,
-            "away": -265
+            "home": 205,
+            "away": -250
           },
           "overUnder": 45.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -15112,16 +15112,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": -5.5,
-            "awaySpread": 5.5
+            "homeSpread": -6,
+            "awaySpread": 6
           },
           "moneyline": {
-            "home": -218,
-            "away": 180
+            "home": -225,
+            "away": 185
           },
           "overUnder": 54.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -15386,16 +15386,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": -14,
-            "awaySpread": 14
+            "homeSpread": -15.5,
+            "awaySpread": 15.5
           },
           "moneyline": {
-            "home": -650,
-            "away": 470
+            "home": -700,
+            "away": 500
           },
-          "overUnder": 47.5,
+          "overUnder": 46.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -15660,16 +15660,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": -5.5,
-            "awaySpread": 5.5
+            "homeSpread": -6,
+            "awaySpread": 6
           },
           "moneyline": {
-            "home": -218,
-            "away": 180
+            "home": -225,
+            "away": 185
           },
           "overUnder": 54.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -15943,7 +15943,7 @@
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -16209,12 +16209,12 @@
             "awaySpread": -7.5
           },
           "moneyline": {
-            "home": 240,
-            "away": -295
+            "home": 215,
+            "away": -265
           },
           "overUnder": 61.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -16480,16 +16480,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": 6,
-            "awaySpread": -6
+            "homeSpread": 6.5,
+            "awaySpread": -6.5
           },
           "moneyline": {
-            "home": 190,
-            "away": -230
+            "home": 195,
+            "away": -238
           },
           "overUnder": 53.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -16762,9 +16762,9 @@
             "home": -3000,
             "away": 1280
           },
-          "overUnder": 67.5,
+          "overUnder": 66.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -17034,12 +17034,12 @@
             "awaySpread": 1.5
           },
           "moneyline": {
-            "home": -126,
-            "away": 106
+            "home": -122,
+            "away": 104
           },
           "overUnder": 41.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -17309,12 +17309,12 @@
             "awaySpread": -3.5
           },
           "moneyline": {
-            "home": 136,
-            "away": -162
+            "home": 134,
+            "away": -160
           },
           "overUnder": 47.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -17581,12 +17581,12 @@
             "awaySpread": 2.5
           },
           "moneyline": {
-            "home": -126,
-            "away": 104
+            "home": -132,
+            "away": 110
           },
           "overUnder": 50.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -17861,7 +17861,7 @@
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       },
       {
@@ -17882,7 +17882,7 @@
           },
           "overUnder": 57.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -18168,12 +18168,12 @@
             "awaySpread": 2.5
           },
           "moneyline": {
-            "home": -126,
-            "away": 104
+            "home": -132,
+            "away": 110
           },
           "overUnder": 50.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -18461,7 +18461,7 @@
           "moneyline": null,
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -18731,12 +18731,12 @@
             "awaySpread": 7.5
           },
           "moneyline": {
-            "home": -320,
-            "away": 255
+            "home": -335,
+            "away": 265
           },
           "overUnder": 37.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -19002,16 +19002,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": -3,
-            "awaySpread": 3
+            "homeSpread": -2.5,
+            "awaySpread": 2.5
           },
           "moneyline": {
-            "home": -148,
-            "away": 124
+            "home": -142,
+            "away": 120
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -19285,7 +19285,7 @@
           },
           "overUnder": 53.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       },
       {
@@ -19306,7 +19306,7 @@
           },
           "overUnder": 57.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -19576,12 +19576,12 @@
             "awaySpread": 1.5
           },
           "moneyline": {
-            "home": -126,
-            "away": 106
+            "home": -122,
+            "away": 104
           },
           "overUnder": 41.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -19868,12 +19868,12 @@
             "awaySpread": 23.5
           },
           "moneyline": {
-            "home": -2800,
-            "away": 1160
+            "home": -2500,
+            "away": 1100
           },
           "overUnder": 52.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -20143,12 +20143,12 @@
             "awaySpread": 6.5
           },
           "moneyline": {
-            "home": -225,
-            "away": 188
+            "home": -220,
+            "away": 184
           },
           "overUnder": 64.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -20418,12 +20418,12 @@
             "awaySpread": -3.5
           },
           "moneyline": {
-            "home": 136,
-            "away": -162
+            "home": 134,
+            "away": -160
           },
           "overUnder": 47.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -20690,12 +20690,12 @@
             "awaySpread": 10.5
           },
           "moneyline": {
-            "home": -410,
-            "away": 320
+            "home": -430,
+            "away": 330
           },
-          "overUnder": 38.5,
+          "overUnder": 37.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -20965,12 +20965,12 @@
             "awaySpread": 14
           },
           "moneyline": {
-            "home": -600,
-            "away": 440
+            "home": -625,
+            "away": 455
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -21242,7 +21242,7 @@
           "moneyline": null,
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -21508,8 +21508,8 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": 11.5,
-            "awaySpread": -11.5
+            "homeSpread": 10.5,
+            "awaySpread": -10.5
           },
           "moneyline": {
             "home": 350,
@@ -21517,7 +21517,7 @@
           },
           "overUnder": 40.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -21770,12 +21770,12 @@
             "awaySpread": 23.5
           },
           "moneyline": {
-            "home": -2800,
-            "away": 1160
+            "home": -2500,
+            "away": 1100
           },
           "overUnder": 52.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -22041,8 +22041,8 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": 11.5,
-            "awaySpread": -11.5
+            "homeSpread": 10.5,
+            "awaySpread": -10.5
           },
           "moneyline": {
             "home": 350,
@@ -22050,7 +22050,7 @@
           },
           "overUnder": 40.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -22324,7 +22324,7 @@
           },
           "overUnder": 41.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -22593,12 +22593,12 @@
             "awaySpread": -14.5
           },
           "moneyline": {
-            "home": 490,
+            "home": 480,
             "away": -670
           },
           "overUnder": 49.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -22847,16 +22847,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": -14,
-            "awaySpread": 14
+            "homeSpread": -15.5,
+            "awaySpread": 15.5
           },
           "moneyline": {
-            "home": -650,
-            "away": 470
+            "home": -700,
+            "away": 500
           },
-          "overUnder": 47.5,
+          "overUnder": 46.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -23122,16 +23122,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": -14.5,
-            "awaySpread": 14.5
+            "homeSpread": -15.5,
+            "awaySpread": 15.5
           },
           "moneyline": {
-            "home": -700,
-            "away": 500
+            "home": -750,
+            "away": 525
           },
           "overUnder": 49.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -23401,12 +23401,12 @@
             "awaySpread": 14.5
           },
           "moneyline": {
-            "home": -630,
-            "away": 460
+            "home": -670,
+            "away": 480
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -23676,12 +23676,12 @@
             "awaySpread": 10.5
           },
           "moneyline": {
-            "home": -410,
-            "away": 320
+            "home": -430,
+            "away": 330
           },
-          "overUnder": 38.5,
+          "overUnder": 37.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -23939,7 +23939,7 @@
           },
           "overUnder": 49.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -24205,8 +24205,8 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": 14,
-            "awaySpread": -14
+            "homeSpread": 13.5,
+            "awaySpread": -13.5
           },
           "moneyline": {
             "home": 410,
@@ -24214,7 +24214,7 @@
           },
           "overUnder": 42.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -24484,12 +24484,12 @@
             "awaySpread": 4.5
           },
           "moneyline": {
-            "home": -200,
-            "away": 164
+            "home": -205,
+            "away": 168
           },
           "overUnder": 40.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -24742,12 +24742,12 @@
             "awaySpread": 5.5
           },
           "moneyline": {
-            "home": -194,
-            "away": 162
+            "home": -192,
+            "away": 160
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -25020,9 +25020,9 @@
             "home": -3000,
             "away": 1280
           },
-          "overUnder": 67.5,
+          "overUnder": 66.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -25294,7 +25294,7 @@
           },
           "overUnder": 52.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -25547,12 +25547,12 @@
             "awaySpread": 4.5
           },
           "moneyline": {
-            "home": -200,
-            "away": 164
+            "home": -205,
+            "away": 168
           },
           "overUnder": 40.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -25824,7 +25824,7 @@
           },
           "overUnder": 47.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -26099,7 +26099,7 @@
           },
           "overUnder": 41.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -26369,12 +26369,12 @@
             "awaySpread": -2.5
           },
           "moneyline": {
-            "home": 116,
+            "home": 114,
             "away": -138
           },
           "overUnder": 54.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -26646,7 +26646,7 @@
           },
           "overUnder": 53.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -26915,12 +26915,12 @@
             "awaySpread": 5.5
           },
           "moneyline": {
-            "home": -194,
-            "away": 162
+            "home": -192,
+            "away": 160
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -27185,16 +27185,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": -14.5,
-            "awaySpread": 14.5
+            "homeSpread": -15.5,
+            "awaySpread": 15.5
           },
           "moneyline": {
-            "home": -700,
-            "away": 500
+            "home": -750,
+            "away": 525
           },
           "overUnder": 49.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -27485,7 +27485,7 @@
           },
           "overUnder": 53.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -27754,12 +27754,12 @@
             "awaySpread": 14.5
           },
           "moneyline": {
-            "home": -630,
-            "away": 460
+            "home": -670,
+            "away": 480
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -28034,7 +28034,7 @@
           },
           "overUnder": 55.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -28304,12 +28304,12 @@
             "awaySpread": 6.5
           },
           "moneyline": {
-            "home": -225,
-            "away": 188
+            "home": -220,
+            "away": 184
           },
           "overUnder": 64.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -28579,12 +28579,12 @@
             "awaySpread": -14.5
           },
           "moneyline": {
-            "home": 490,
+            "home": 480,
             "away": -670
           },
           "overUnder": 49.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -28850,8 +28850,8 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": 14,
-            "awaySpread": -14
+            "homeSpread": 13.5,
+            "awaySpread": -13.5
           },
           "moneyline": {
             "home": 410,
@@ -28859,7 +28859,7 @@
           },
           "overUnder": 42.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -29117,7 +29117,7 @@
           },
           "overUnder": 53.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -29392,7 +29392,7 @@
           },
           "overUnder": 56.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -29667,7 +29667,7 @@
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -29933,16 +29933,16 @@
         "homeAway": "away",
         "odds": {
           "spread": {
-            "homeSpread": 6,
-            "awaySpread": -6
+            "homeSpread": 6.5,
+            "awaySpread": -6.5
           },
           "moneyline": {
-            "home": 190,
-            "away": -230
+            "home": 195,
+            "away": -238
           },
           "overUnder": 53.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -30214,7 +30214,7 @@
           },
           "overUnder": 49.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -30480,16 +30480,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": -3,
-            "awaySpread": 3
+            "homeSpread": -2.5,
+            "awaySpread": 2.5
           },
           "moneyline": {
-            "home": -148,
-            "away": 124
+            "home": -142,
+            "away": 120
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -30747,7 +30747,7 @@
           },
           "overUnder": 53.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -31022,7 +31022,7 @@
           },
           "overUnder": 53.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -31287,16 +31287,16 @@
         "homeAway": "home",
         "odds": {
           "spread": {
-            "homeSpread": 7,
-            "awaySpread": -7
+            "homeSpread": 6.5,
+            "awaySpread": -6.5
           },
           "moneyline": {
-            "home": 215,
-            "away": -265
+            "home": 205,
+            "away": -250
           },
           "overUnder": 45.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -31570,7 +31570,7 @@
           },
           "overUnder": 47.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -31839,12 +31839,12 @@
             "awaySpread": 7.5
           },
           "moneyline": {
-            "home": -320,
-            "away": 255
+            "home": -335,
+            "away": 265
           },
           "overUnder": 37.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -32115,7 +32115,7 @@
           },
           "overUnder": 52.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -32401,12 +32401,12 @@
             "awaySpread": -2.5
           },
           "moneyline": {
-            "home": 116,
+            "home": 114,
             "away": -138
           },
           "overUnder": 54.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -32680,7 +32680,7 @@
           },
           "overUnder": 56.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -32933,12 +32933,12 @@
             "awaySpread": 14
           },
           "moneyline": {
-            "home": -600,
-            "away": 440
+            "home": -625,
+            "away": 455
           },
           "overUnder": 50.5,
           "source": "DraftKings",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ],
@@ -33208,12 +33208,12 @@
             "awaySpread": -7.5
           },
           "moneyline": {
-            "home": 240,
-            "away": -295
+            "home": 215,
+            "away": -265
           },
           "overUnder": 61.5,
           "source": "FanDuel",
-          "fetchedAt": "2026-11-25T14:29:30.777Z"
+          "fetchedAt": "2026-11-26T11:11:17.207Z"
         }
       }
     ]
